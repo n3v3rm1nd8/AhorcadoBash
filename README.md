@@ -1,7 +1,7 @@
 # Información previa
 
-- Es el clasico juego del ahorcado pero hecho en bash donde el primer jugador puede tanto escribir una letra o palabra o frase siempre y cuando no haya ningun caracter extraño de por medio, hecho esto el otro jugador tendria que elegir la otra opcion para adivinar la palabra escrita anteriormente.
-- Recalcar que los binarios que utiliza este script deberian de venir practicamente en cada distribución de Linux.
+- Es el clásico juego del ahorcado pero hecho en bash donde el primer jugador puede tanto escribir una letra o palabra o frase siempre y cuando no haya ningún caracter extraño de por medio, hecho esto el otro jugador tendría que elegir la otra opción para adivinar la palabra escrita anteriormente.
+- Recalcar que los binarios que utiliza este script deberían de venir practicamente en cada distribución de Linux.
 
 ## Uso
 Nos clonamos el repositorio:
